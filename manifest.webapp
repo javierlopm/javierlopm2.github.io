@@ -1,11 +1,11 @@
 {
-  "name": "Miblog",
-  "description": "este es mi blog",
-  "icons": {"128": "/assets/images/icon128.png"},
+  "name": "Miblogcul",
+  "description": "este es el blog",
+  "icons": {"128": "/assets/images/nico.png"},
   "version": "0.1",
   "launch_path": "/index.html",
   "developer": {
-    "name": "Leonard",
+    "name": "JavierCarlosAckerman",
     "url": "http://github.com"
   }
 }
