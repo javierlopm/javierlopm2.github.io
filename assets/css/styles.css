@@ -926,7 +926,7 @@ a:hover {
   padding-right: 10px;
 }
 
-img{ 
+*{ 
     -moz-animation:.6s rotateRight infinite linear; 
     -webkit-animation:.6s rotateRight infinite linear; 
 }
